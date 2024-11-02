@@ -1,0 +1,14 @@
+{
+    "variants": {
+        "age=0": { "model": "beetroots_stage0" },
+        "age=1": [
+		{ "model": "crop/root" },
+		{ "model": "crop/root1" }
+		],
+        "age=2": [
+		{ "model": "crop/dernic" },
+		{ "model": "crop/dernic1" }
+		],
+        "age=3": { "model": "beetroots_stage3" }
+    }
+}

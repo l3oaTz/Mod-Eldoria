@@ -1,0 +1,10 @@
+{
+    "variants": {
+        "normal": [
+		{ "model": "web" },
+		{ "model": "variants/cobweb_0" },
+		{ "model": "variants/cobweb_1" },
+		{ "model": "variants/cobweb_2" }
+		]
+    }
+}

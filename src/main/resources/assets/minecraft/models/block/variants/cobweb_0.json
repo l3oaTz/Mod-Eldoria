@@ -1,0 +1,6 @@
+{
+    "parent": "block/web",
+    "textures": {
+        "cross": "block_variants/cobweb_0"
+    }
+}

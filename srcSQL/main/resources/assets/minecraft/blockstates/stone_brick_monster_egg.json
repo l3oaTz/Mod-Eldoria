@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "normal":
+			{ "model": "variants/dark_stone_bricks" }
+    }
+}

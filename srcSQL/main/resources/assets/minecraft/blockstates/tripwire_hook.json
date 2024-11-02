@@ -1,0 +1,20 @@
+{
+    "variants": {
+        "attached=true,facing=north,powered=false": { "model": "blank" },
+        "attached=true,facing=south,powered=false": { "model": "blank" },
+        "attached=true,facing=west,powered=false": { "model": "blank" },
+        "attached=true,facing=east,powered=false": { "model": "blank" },
+        "attached=true,facing=north,powered=false": { "model": "blank" },
+        "attached=true,facing=south,powered=false": { "model": "blank" },
+        "attached=true,facing=west,powered=false": { "model": "blank" },
+        "attached=true,facing=east,powered=false": { "model": "blank" },
+        "attached=true,facing=north,powered=true": { "model": "blank" },
+        "attached=true,facing=south,powered=true": { "model": "blank" },
+        "attached=true,facing=west,powered=true": { "model": "blank" },
+        "attached=true,facing=east,powered=true": { "model": "blank" },
+        "attached=true,facing=north,powered=true": { "model": "blank" },
+        "attached=true,facing=south,powered=true": { "model": "blank" },
+        "attached=true,facing=west,powered=true": { "model": "blank" },
+        "attached=true,facing=east,powered=true": { "model": "blank" }
+    }
+}

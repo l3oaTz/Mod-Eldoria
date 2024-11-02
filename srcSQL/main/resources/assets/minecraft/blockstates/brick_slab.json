@@ -1,0 +1,14 @@
+{
+    "variants": {
+        "half=bottom": [
+		{ "model": "variants/dirt_half_slab" },
+		{ "model": "variants/dirt_half_slab_0" },
+		{ "model": "variants/dirt_half_slab_1" }
+		],
+        "half=top": [
+		{ "model": "variants/dirt_upper_slab" },
+		{ "model": "variants/dirt_upper_slab_0" },
+		{ "model": "variants/dirt_upper_slab_1" }
+		]
+    }
+}

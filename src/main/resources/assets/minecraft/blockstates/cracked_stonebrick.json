@@ -1,0 +1,9 @@
+{
+    "variants": {
+        "normal": [
+			{ "model": "stonebrick_cracked", "weight": 6 },
+			{ "model": "variants/cracked_stone_bricks_0", "weight": 3 },
+			{ "model": "variants/cracked_stone_bricks_1", "weight": 3 }
+			]
+    }
+}
